@@ -1,10 +1,11 @@
-/****************************************************************************
-*- JANI REKINEN - KTTIVI20EB OSAO 2022                                      *
-*Based on Vadim Sinitskin and Brian Lough project found from GitHub			*
-*https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot             *
-*Idea from the video below                                         			*
-*https://www.youtube.com/watch?v=-IC-Z78aTOs                               	*
-*Copy text to file and name it .ino for using in Arduino IDE				*
+/**************************************************************************
+*- JANI REKINEN - KTTIVI20EB OSAO 2022                                    *
+*Based on Brian Lough's Universal Telegram Bot Library from GitHub		  	*
+*https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot				    *
+*https://github.com/witnessmenow/Simple-Home-Automation-With-Telegram	    *
+*Idea from the videoes below                                       		  	*
+*https://www.youtube.com/watch?v=yXnfpvCrU_I							              	*
+*https://www.youtube.com/watch?v=-IC-Z78aTOs                             	*
 ****************************************************************************/
 //Define used libraries such as used board and used wifi client
 #include <ESP8266WiFi.h>        //used board here such as ESP32, Arduino MKR1010 etc
