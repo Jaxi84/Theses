@@ -1,5 +1,5 @@
 # Theses
-My theses from OSAO and OAMK
+My theses from previous studies
 
 Handle with care
 
