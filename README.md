@@ -3,7 +3,4 @@ My theses from previous studies
 
 Handle with care
 
-The program snippets provided on this repository are for educational and informational purposes only. 
-The author of this repository makes no representations or warranties of any kind, express or implied, 
-about the completeness, accuracy, reliability, suitability or availability with respect to the program snippets for any purpose. 
-Any reliance you place on such information is therefore strictly at your own risk.
+The program snippets provided in this repository are intended for educational and informational purposes only. The author makes no representations or warranties of any kind, express or implied, regarding the completeness, accuracy, reliability, suitability, or availability of the code snippets for any purpose. Any reliance you place on such material is strictly at your own risk.
